@@ -20,3 +20,5 @@ We offer full control over your data with:
 
 ### Academic Research Collaboration
 MediaNetRats partners with academic institutions on AI and big data research projects. Contribute to innovative research that pushes the boundaries of knowledge and fuels future academic advancements.
+
+Learn more about the system and data by browsing the sections in the [wiki](https://github.com/medianetrats/.github/wiki)
